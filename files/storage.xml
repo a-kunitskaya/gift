@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Gift>
+    	<Chocolate>
+        	<Price>10</Price>
+        	<Weight>5</Weight>
+        	<CountryOfOrigin>FRANCE</CountryOfOrigin>
+        	<CocoaPercentage>60</CocoaPercentage>
+    	</Chocolate>
+    	<Marmalade>
+        	<Price>20</Price>
+        	<Weight>7</Weight>
+        	<CountryOfOrigin>BELGIUM</CountryOfOrigin>
+        	<Flavor>APPLE</Flavor>
+    	</Marmalade>
+        <CaramelCandy>
+            <Price>10</Price>
+            <Weight>5</Weight>
+            <CountryOfOrigin>FRANCE</CountryOfOrigin>
+            <Size>SMALL</Size>
+            <Flavor>VANILLA</Flavor>
+            <isLollipop>true</isLollipop>
+        </CaramelCandy>
+	</Gift>
+</Root>
